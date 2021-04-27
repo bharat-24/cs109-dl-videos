@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Input the video number that you want to download: "
+echo "Input the video number that you want to download:S01
 num=0
 read num
 echo "Resume? (y/n)"
